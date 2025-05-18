@@ -74,10 +74,7 @@ Este projeto está licenciado sob a Licença MIT.
 ---
 ## Apresentação Final
 
-Você pode conferir a apresentação final do projeto [clicando aqui](apresentacaofinal/Slides_apresentacao.pdf).
-
-Ou acesse diretamente: [Slides - Visualizar PDF](https://github.com/WalifeOliveira/projeto-becomex9/blob/main/apresentacaofinal/Slides_apresentacao.pdf)
-
+Você pode conferir a apresentação final do projeto [clicando aqui](https://github.com/WalifeOliveira/projeto-becomex9/blob/main/apresentacaofinal/Slides_apresentacao.pdf)
 
 ----
 ## Colaboradores
