@@ -2,6 +2,13 @@
 # 📬 Projeto Becomex - Sistema de Mensageria
 
 Este projeto simula um sistema de mensageria entre APIs, com foco em modularidade e boas práticas de desenvolvimento em Python. Foi desenvolvido como parte do curso da Escola DNC.
+**Contextualização:** 
+
+O Grupo Becomex impulsiona a transformação da indústria por meio de estratégias de melhorias de performance baseadas em tecnologia e colaboração entre os elos das cadeias produtivas.
+
+Promovemos mais eficiência econômica para nossos clientes que evoluem de forma sustentável, impactando positivamente organizações, pessoas e sociedade.
+
+Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecimento de negócios e tecnologia, impactando positivamente pessoas, organizações e a sociedade.
 
 ---
 
@@ -63,3 +70,18 @@ projeto-becomex/
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
+---
+## Apresentação Final
+
+Você pode conferir a apresentação final do projeto [clicando aqui](apresentacaofinal/Slides_apresentação.pdf).
+
+----
+## Colaboradores
+- [Walife Oliveira] (https://github.com/WalifeOliveira)
+- [Lucas Roballo] (https://github.com/lroballo)
+- [Maria Ribeiro] (https://github.com/mariarib)
+- [Gustavo Morais] (https://github.com/GustavoM31)
+- [Bruno Alexandre A Silva] (https://github.com/BrunoAlexandreAmaral)
+- [David Gentil] (https://github.com/David-Gentil)
+
+
