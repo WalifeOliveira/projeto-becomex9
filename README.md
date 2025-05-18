@@ -12,11 +12,16 @@ Promovemos mais eficiência econômica para nossos clientes que evoluem de forma
 Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecimento de negócios e tecnologia, impactando positivamente pessoas, organizações e a sociedade.
 
 ---
+## Colaboradores
+- [Walife Oliveira] (https://github.com/WalifeOliveira)
+- [Lucas Roballo] (https://github.com/lroballo)
+- [Maria Ribeiro] (https://github.com/mariarib)
+- [Gustavo Morais] (https://github.com/GustavoM31)
+- [Bruno Alexandre A Silva] (https://github.com/BrunoAlexandreAmaral)
+- [David Gentil] (https://github.com/David-Gentil)
+  
 ## Apresentação Final
-
 Você pode conferir a apresentação final do projeto efetuando o download do arquivo "Slides.apresentacao.pdf"
-
-
 ## 🧩 Estrutura do Projeto
 
 O sistema é dividido em 3 etapas principais, cada uma implementada em um módulo separado:
@@ -76,13 +81,6 @@ projeto-becomex/
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
 
----
-## Colaboradores
-- [Walife Oliveira] (https://github.com/WalifeOliveira)
-- [Lucas Roballo] (https://github.com/lroballo)
-- [Maria Ribeiro] (https://github.com/mariarib)
-- [Gustavo Morais] (https://github.com/GustavoM31)
-- [Bruno Alexandre A Silva] (https://github.com/BrunoAlexandreAmaral)
-- [David Gentil] (https://github.com/David-Gentil)
+
 
 
