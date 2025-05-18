@@ -2,6 +2,7 @@
 # 📬 Projeto Becomex - Sistema de Mensageria
 
 Este projeto simula um sistema de mensageria entre APIs, com foco em modularidade e boas práticas de desenvolvimento em Python. Foi desenvolvido como parte do curso da Escola DNC.
+---
 **Contextualização:** 
 
 O Grupo Becomex impulsiona a transformação da indústria por meio de estratégias de melhorias de performance baseadas em tecnologia e colaboração entre os elos das cadeias produtivas.
