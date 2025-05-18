@@ -14,7 +14,8 @@ Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecime
 ---
 ## Apresentação Final
 
-Você pode conferir a apresentação final do projeto [clicando aqui](https://github.com/WalifeOliveira/projeto-becomex9/blob/main/apresentacaofinal/Slides_apresentacao.pdf)
+Você pode conferir a apresentação final do projeto [clicando aqui](apresentacaofinal/Slides_apresentacao.pdf)
+
 
 ## 🧩 Estrutura do Projeto
 
