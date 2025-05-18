@@ -73,7 +73,7 @@ Este projeto está licenciado sob a Licença MIT.
 ---
 ## Apresentação Final
 
-Você pode conferir a apresentação final do projeto [clicando aqui](apresentacaofinal/Slides_apresentação.pdf).
+Você pode conferir a apresentação final do projeto [clicando aqui](apresentacaofinal/Slides_apresentacao.pdf).
 
 ----
 ## Colaboradores
