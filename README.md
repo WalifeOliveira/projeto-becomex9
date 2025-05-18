@@ -12,6 +12,9 @@ Promovemos mais eficiência econômica para nossos clientes que evoluem de forma
 Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecimento de negócios e tecnologia, impactando positivamente pessoas, organizações e a sociedade.
 
 ---
+## Apresentação Final
+
+Você pode conferir a apresentação final do projeto [clicando aqui](https://github.com/WalifeOliveira/projeto-becomex9/blob/main/apresentacaofinal/Slides_apresentacao.pdf)
 
 ## 🧩 Estrutura do Projeto
 
@@ -71,12 +74,8 @@ projeto-becomex/
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
+
 ---
-## Apresentação Final
-
-Você pode conferir a apresentação final do projeto [clicando aqui](https://github.com/WalifeOliveira/projeto-becomex9/blob/main/apresentacaofinal/Slides_apresentacao.pdf)
-
-----
 ## Colaboradores
 - [Walife Oliveira] (https://github.com/WalifeOliveira)
 - [Lucas Roballo] (https://github.com/lroballo)
