@@ -21,7 +21,7 @@ Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecime
 - [David Gentil](https://github.com/David-Gentil)
   
 ## Apresentação Final
-Você pode conferir a apresentação final do projeto efetuando o download do arquivo "Slides.apresentacao.pdf"
+Você pode conferir a apresentação final do projeto efetuando o download do arquivo "ProjetoBecomex.pdf"
 ## 🧩 Estrutura do Projeto
 
 O sistema é dividido em 3 etapas principais, cada uma implementada em um módulo separado:
