@@ -13,12 +13,12 @@ Nosso propósito é impulsionar empresas e suas cadeias produtivas com conhecime
 
 ---
 ## Colaboradores
-- [Walife Oliveira] (https://github.com/WalifeOliveira)
-- [Lucas Roballo] (https://github.com/lroballo)
-- [Maria Ribeiro] (https://github.com/mariarib)
-- [Gustavo Morais] (https://github.com/GustavoM31)
-- [Bruno Alexandre A Silva] (https://github.com/BrunoAlexandreAmaral)
-- [David Gentil] (https://github.com/David-Gentil)
+- [Walife Oliveira](https://github.com/WalifeOliveira)
+- [Lucas Roballo](https://github.com/lroballo)
+- [Maria Ribeiro](https://github.com/mariarib)
+- [Gustavo Morais](https://github.com/GustavoM31)
+- [Bruno Alexandre A Silva](https://github.com/BrunoAlexandreAmaral)
+- [David Gentil](https://github.com/David-Gentil)
   
 ## Apresentação Final
 Você pode conferir a apresentação final do projeto efetuando o download do arquivo "Slides.apresentacao.pdf"
