@@ -428,11 +428,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 - 🐙 GitHub: [@lroballo](https://github.com/lroballo)
 
-- **Maria Ribeiro**
+ **Maria Ribeiro**
   
 - 🐙 GitHub: [@mariarib](https://github.com/mariarib)
   
-- **Gustavo Morais**
+ **Gustavo Morais**
   
 - 🐙 GitHub: [@GustavoM31](https://github.com/GustavoM31)
   
