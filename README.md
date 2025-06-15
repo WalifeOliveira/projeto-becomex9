@@ -416,13 +416,23 @@ messageRouter.register('custom', new CustomMessageProcessor());
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Walife Oliveira**
 - 💼 LinkedIn: [linkedin.com/in/walife-oliveira](https://linkedin.com/in/walife-oliveira)
 - 📧 Email: walife.oliveira@email.com
-- 🌐 Portfolio: [walife.dev](https://walife.dev)
 - 🐙 GitHub: [@WalifeOliveira](https://github.com/WalifeOliveira)
+**Lucas Roballo**
+- 🐙 GitHub: [@lroballo](https://github.com/lroballo)
+- **Maria Ribeiro**
+- 🐙 GitHub: [@mariarib](https://github.com/mariarib)
+- **Gustavo Morais**
+- 🐙 GitHub: [@GustavoM31](https://github.com/GustavoM31)
+**Bruno Alexandre Amaral**
+- 🐙 GitHub: [@BrunoAlexandreAmaral](https://github.com/BrunoAlexandreAmaral)
+  **David Gentil**
+- 🐙 GitHub:[@David-Gentil](https://github.com/David-Gentil)
+
 
 ---
 
