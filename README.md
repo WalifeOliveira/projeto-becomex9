@@ -420,17 +420,28 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Walife Oliveira**
 - 💼 LinkedIn: [linkedin.com/in/walife-oliveira](https://linkedin.com/in/walife-oliveira)
-- 📧 Email: walife.oliveira@email.com
+- 📧 Email: walife.profissional@gmail.com
 - 🐙 GitHub: [@WalifeOliveira](https://github.com/WalifeOliveira)
+
+  
 **Lucas Roballo**
+
 - 🐙 GitHub: [@lroballo](https://github.com/lroballo)
+
 - **Maria Ribeiro**
+  
 - 🐙 GitHub: [@mariarib](https://github.com/mariarib)
+  
 - **Gustavo Morais**
+  
 - 🐙 GitHub: [@GustavoM31](https://github.com/GustavoM31)
+  
 **Bruno Alexandre Amaral**
+  
 - 🐙 GitHub: [@BrunoAlexandreAmaral](https://github.com/BrunoAlexandreAmaral)
+  
   **David Gentil**
+  
 - 🐙 GitHub:[@David-Gentil](https://github.com/David-Gentil)
 
 
